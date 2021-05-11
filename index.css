@@ -21,5 +21,11 @@ span.a {
     padding: 1px;
 }
 
+.casestudycontainer {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
 
 
