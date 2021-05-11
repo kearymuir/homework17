@@ -1,0 +1,25 @@
+body{
+    background-color: #DBC9AB; 
+    margin: 0; 
+    padding: 0;
+}
+
+span.a {
+    display: inline-block; 
+    width: 120px;
+    height: 50px;
+    padding: 50px;
+    margin: 20px;
+    border: 1px solid white;  
+    background-color: #C99585; 
+  }
+
+.footer {
+    background-color: #37492D;
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
+
+
+
